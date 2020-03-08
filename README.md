@@ -1,10 +1,12 @@
 # TCP Chat
-**A simple chat application, written in c++.**
+**A simple client/server chat application, written in c++.**
+
 
 ## Technical Aspects
 - [x] TCP Communication
 - [x] Signal handler
 - [x] Multithreading
+
 
 ## Chat Functionality
 - [x] Server and client modules
